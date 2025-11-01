@@ -36,10 +36,7 @@ To generate a stylized digital anime version of a given classic realism portrait
 | Input (Classic Realism Portrait) | Prompt | Output (Anime Version) |
 |----------------------------------|--------|-------------------------|
 | Realism portrait of a young woman in formal attire, neutral background | *“Recreate this portrait in anime style with smooth digital shading, large expressive anime eyes, and stylized hair. Keep the original expression and pose exactly the same.”* | Anime-stylized digital portrait with vibrant colors, anime facial proportions, preserved pose and emotion |  
-<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/4b1edd89-d21a-4d4f-ab30-ae4dff28485f" />
 
-
-<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/f96e2cb6-0d44-49c3-a680-2b82f5f99258" />
 
 
 
